@@ -12,6 +12,15 @@ section {
 	margin-right: auto !important;
 	margin-left: auto !important;
 }
+.text-light{
+	color: #ddd !important;
+}
+.highlight-text {
+	background-color: rgba(0,0,0,0.7); 
+	padding: 13px !important;
+	border-radius: 13px;
+	color: #ddd !important;
+}
 .reference {
 	font-size: 55% !important; 
 	color: #444 !important; 
