@@ -1,0 +1,39 @@
+img {
+   border: none !important;
+   box-shadow: none !important;
+}
+section {
+   padding: 0px !important;
+}
+.reveal {
+	font-size: 36px !important;
+}
+.center {
+	margin-right: auto !important;
+	margin-left: auto !important;
+}
+.reference {
+	font-size: 55% !important; 
+	color: #444 !important; 
+	width: 90% !important; 
+	margin-left: auto !important; 
+	margin-right: auto !important; 
+	margin-top: 23px !important;
+}
+.bluetable tr {
+	border: 2px solid white !important;
+}
+.bluetable td {
+	border: 2px solid white !important;
+}
+@media print {
+  body {
+	padding: 0px !important;
+    font-size: 9pt !important;
+	color: #727272;
+  }
+  #main {
+	  width: 100% !important; 
+	  max-width: 100% !important;
+  }
+}
